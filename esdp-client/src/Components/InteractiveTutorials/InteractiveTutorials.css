@@ -1,0 +1,19 @@
+.tutorialNavbar{
+       width: 10%;
+       display: flex;
+       flex-direction: column;
+       position: sticky;
+       top: 23vh;
+       left: 5vw;
+       background-color: rgba(128, 128, 128, 0.284);
+       align-items: center;
+       justify-content: center;
+       height: 20vh;
+}
+.tutorialLink{
+       margin:  3vh 0;
+}
+.infoTutorialBlock{
+       margin-left: 15rem;
+       height: 100vh;
+}

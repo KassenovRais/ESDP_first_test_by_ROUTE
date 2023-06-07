@@ -1,0 +1,16 @@
+.shop_title{
+       text-align: center;
+}
+.shop_item{
+       width: 30%;
+}
+.shop_main_block{
+       width: 93%;
+       margin: 3vh auto;
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: space-evenly;
+}
+.pic_shop{
+       width: 100%;
+}

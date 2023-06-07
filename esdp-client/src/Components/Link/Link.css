@@ -1,0 +1,23 @@
+.link{
+       font-weight: 800;
+       font-size: 1rem;
+       text-decoration: none;
+}
+.active{
+       color: teal;
+}
+.deactive{
+       color: white;
+}
+
+.Btn{
+       border: 1px solid white;
+       border-radius: 8px;
+       background: none;
+       width: 70px;
+       height: 4vh;
+       cursor: pointer;
+}
+.link:hover{
+       color: teal;
+}
